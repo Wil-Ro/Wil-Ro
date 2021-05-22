@@ -1,4 +1,4 @@
-##Hey! Welcome to my Github
+### Hey! Welcome to my Github :)
 
 I'm Ro, an aspiring software developer currently spending a gap year working as a waitress and using my spare time to work through projects, teach myself C++ and create VR demos and games every now and again.
 
