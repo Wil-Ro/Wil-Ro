@@ -8,4 +8,3 @@ I've got a bit on an obsession with AR and VR and I've always got some sort of X
 
 I also tend to work on games and small tools with friends most of which can be found here
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wil-Ro)](https://github.com/anuraghazra/github-readme-stats)
