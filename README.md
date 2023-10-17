@@ -6,4 +6,4 @@ At the moment I'm trying to learn to write somewhat low-level code that runs wit
 
 My interests generally lie in environmentalism and electronics but I also find old computers and low level programming really interesting along with using code artistically such as creating music through code using Sonic-Pi. I've also previously been very interested in VR/AR and BCI's so alot of my older work revolves around those concepts.
 
-I have previous experience with C++, C#, Typescript, Python and CSS/HTML/Javascript along with a few game engines.
+I have experience with C++, C#, Typescript, Python and CSS/HTML/Javascript along with a few game engines. Though my favourite language is C++.
